@@ -13,7 +13,7 @@
         ],
         "preparing_time": "30 min",
         "calories": "320 calories",
-        "recipe_image": "path/to/chicken_teriyaki.jpg"
+        "recipe_image": "https://i.ibb.co.com/NCRP6kq/side-view-baked-chicken-breast-with-spring-onion-sauce-sesame-seeds-rice-plate.jpg"
     },
     {
         "recipe_id": 2,
@@ -29,7 +29,7 @@
         ],
         "preparing_time": "20 min",
         "calories": "250 calories",
-        "recipe_image": "path/to/vegetable_stir_fry.jpg"
+        "recipe_image": "https://i.ibb.co.com/mTYycTP/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table-flat-lay-top-view.jpg"
     },
     {
         "recipe_id": 3,
@@ -45,7 +45,7 @@
         ],
         "preparing_time": "25 min",
         "calories": "450 calories",
-        "recipe_image": "path/to/spaghetti_carbonara.jpg"
+        "recipe_image": "https://i.ibb.co.com/sC2B9w4/carbonara.jpg"
     },
     {
         "recipe_id": 4,
@@ -60,7 +60,7 @@
         ],
         "preparing_time": "10 min",
         "calories": "200 calories",
-        "recipe_image": "path/to/caprese_salad.jpg"
+        "recipe_image": "https://i.ibb.co.com/QFm4tJS/6851682.jpg"
     },
     {
         "recipe_id": 5,
@@ -76,7 +76,7 @@
         ],
         "preparing_time": "30 min",
         "calories": "400 calories",
-        "recipe_image": "path/to/beef_tacos.jpg"
+        "recipe_image": "https://i.ibb.co.com/CBmNDnZ/mexican-tacos-wooden-table.jpg"
     },
     {
         "recipe_id": 6,
@@ -92,6 +92,6 @@
         ],
         "preparing_time": "15 min",
         "calories": "150 calories",
-        "recipe_image": "path/to/chocolate_chip_cookies.jpg"
+        "recipe_image": "https://i.ibb.co.com/mcbPXfh/arrangement-cookies-surrounded-by-chocolate-chips-spoon.jpg"
     }
 ]
