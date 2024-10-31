@@ -5,6 +5,7 @@ import Banner from './Components/Banner/Banner'
 import Recipes from './Components/Recipes/Recipes'
 import WantToCooks from './Components/WantToCooks/WantToCooks'
 import Recipe from './Components/Recipe/Recipe'
+import Ourrecipe from './Components/Ourrecipe/Ourrecipe'
 
 function App() {
   const [wantToCooks,setWantToCooks]=useState([]);
@@ -20,8 +21,10 @@ function App() {
       
       <Navber></Navber>
       <Banner></Banner>
-      <div className='flex  '>
+      <Ourrecipe></Ourrecipe>
+      <div className='flex gap-5 '>
       <Recipes handleAssToWantToCooks={handleAssToWantToCooks}></Recipes>
+      
     <WantToCooks wantToCooks={wantToCooks}></WantToCooks>
       </div>
       
